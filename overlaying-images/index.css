@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  max-height: 80%;
+  max-width: 80%;
+}
+
+.first-layer {
+  background-image: url("http://upload.wikimedia.org/wikipedia/commons/3/31/Color_block.png");
+  background-size: cover;
+  height: 500px;
+  width: 700px;
+}
+
+.second-layer {
+    background-image: url("http://store.suzieqquilts.com/stores_app/images/images_609/Bella%20Solids%20Feather%209900-127%20lg.jpg");
+  background-size: cover;
+  height: 400px;
+  width: 600px;
+}
+
+.third-layer {
+  background-image: url("http://37.media.tumblr.com/aee1015ca56e752f399e64e564f6e71d/tumblr_mhad5va2731s465kwo1_500.jpg");
+  background-size: cover;
+  height: 300px;
+  width: 500px;
+}
